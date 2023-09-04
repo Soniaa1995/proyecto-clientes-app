@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;spring-boot-backend-apirest/uploads/8c9d1127-29c9-4291-8678-25470403648b_2012-03-1118.19.43.jpg&apos;" deleteContents="false" description="Delete resource &apos;spring-boot-backend-apirest/uploads/8c9d1127-29c9-4291-8678-25470403648b_2012-03-1118.19.43.jpg&apos;" element1="/spring-boot-backend-apirest/uploads/8c9d1127-29c9-4291-8678-25470403648b_2012-03-1118.19.43.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1692262260024"/>
+</session>
